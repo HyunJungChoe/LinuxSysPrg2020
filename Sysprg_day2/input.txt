@@ -1,0 +1,4 @@
+This is a pencil.
+Sample text line
+Linux,is,Evolution
+Apple/Mango/Tomato/Banana
